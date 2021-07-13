@@ -1,37 +1,21 @@
 # shell-hello
 
 ## Description
-Create a customized box with 2 cores and 2GB of ram
+Create a hello shell script with travis-ci Continous Integration service
 
 ### Pre-requirements
 
-* [Vagrant](https://www.vagrantup.com/downloads)
-* [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+* [GitHub account](https://github.com)
+* [Travis-ci account](https://travis-ci.com)
 
 ## How to use this repo
 
 - Clone
-- Boot the VM
-- Test
-
+- Check build status on travis-ci.com
 ---
 
 ### Clone the repo
 
 ```
-git clone https://github.com/viv-garot/vagrant-customized-box/
+git clone https://github.com/viv-garot/shell-hello/
 ```
-
-### Change directory
-
-```
-cd vagrant-customized-box
-```
-
-### Start the boxes
-
-```
-vagrant up
-```
-
-### Sample output
