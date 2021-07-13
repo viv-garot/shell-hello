@@ -7,7 +7,7 @@ if [ ${out} == "hello" ] ; then
     exit 0
 
 else 
-    echo "output is not hello, but :"
+    echo "output is not hello but :"
     echo $out
     exit 1
 fi
