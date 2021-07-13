@@ -3,7 +3,7 @@
 out=$(/usr/bin/env bash hello.sh)
 
 if [ ${out} == "hello" ] ; then
-    echo "expected hello and output is hello"
+    echo "output is hello"
     exit 0
 
 else 
