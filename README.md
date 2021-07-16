@@ -11,11 +11,31 @@ Create a hello shell script with travis-ci Continous Integration service
 ## How to use this repo
 
 - Clone
-- Check build status on travis-ci.com
+- Run
 ---
 
 ### Clone the repo
 
 ```
 git clone https://github.com/viv-garot/shell-hello/
+```
+
+### Run
+
+```
+bash hello.sh
+```
+
+```
+bash test_hello.sh
+```
+
+### Sample output
+
+```
+bash hello.sh
+hello
+
+bash test_hello.sh
+output is hello
 ```
