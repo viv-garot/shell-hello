@@ -1,4 +1,4 @@
 #!/usr/local/env bash
 
 # prints hello
-echo "hello"
+echo "bye"
